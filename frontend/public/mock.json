@@ -1,0 +1,586 @@
+{
+  "duvs": [
+    {
+      "id": "e5c86a32-e0ed-4507-aa97-402a6fa2d309",
+      "numero": "DUV2025-001",
+      "data_viagem": "2025-09-14",
+      "navio": {
+        "id": "navio2",
+        "nome": "Navio Cruzeiro 2",
+        "bandeira": "Brasil",
+        "imagem": "https://www.royalcaribbean.com/blog/wp-content/uploads/2017/10/Turnaround-Day-Header-e1622748471691.jpg"
+      },
+      "lista_pessoas": [
+        "e225c2bb-805d-4f11-ac55-14cd6642fbe6",
+        "19d96ea5-1ddf-411c-a5ac-13099b2e9907",
+        "c2c6f7a6-e955-4e68-9ef8-60a42a6cdec2",
+        "2954cb67-9798-4156-a243-9c4f636bd67a",
+        "ba1f2a7a-4a7b-44ee-9dd6-744e146b90df"
+      ]
+    },
+    {
+      "id": "76f173e0-c238-4d48-847e-a16c7abf9349",
+      "numero": "DUV2025-002",
+      "data_viagem": "2025-07-23",
+      "navio": {
+        "id": "navio2",
+        "nome": "Navio Cruzeiro 2",
+        "bandeira": "Brasil",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "b33fd6e2-73cf-4cf8-96bf-8ddcb1ba9b23",
+        "f94c739c-8f21-4316-a3ce-519352b5e894",
+        "ce455652-ae62-46a7-b97d-b4a5fe4db399",
+        "9956f81f-7fdc-4bd9-99e3-391258ec1228",
+        "9647d801-4618-4c7a-a41f-2e2b3e1c9c04"
+      ]
+    },
+    {
+      "id": "24154e6e-3c89-41cb-8096-15a1ae9535c6",
+      "numero": "DUV2025-003",
+      "data_viagem": "2025-10-15",
+      "navio": {
+        "id": "navio5",
+        "nome": "Navio Cruzeiro 5",
+        "bandeira": "Panamá",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "47fecc0a-5143-40c4-8a25-12358116bc3d",
+        "68102668-22aa-4ce4-b16c-14dd7865c654",
+        "cb5f24cb-6885-4249-b9be-14a228548475",
+        "cac5e18c-8270-43d6-aefb-759ab70aadae",
+        "f9cea9a8-7244-4fd5-8540-0222ec2be6e0"
+      ]
+    },
+    {
+      "id": "a5470efa-10f7-4556-b05d-6315ed7039c0",
+      "numero": "DUV2025-004",
+      "data_viagem": "2025-07-19",
+      "navio": {
+        "id": "navio5",
+        "nome": "Navio Cruzeiro 5",
+        "bandeira": "Panamá",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "b7cec6ce-2388-4c31-98f7-68cfb0e73187",
+        "a20335ec-e326-4ff9-8174-1135e14ff181",
+        "5918f690-a1d1-41f8-aa9c-fd4120d43060",
+        "c03eb934-c948-46e1-9339-7fc5d2c92156",
+        "c99bce11-993f-4bb5-a2aa-734441664c55"
+      ]
+    },
+    {
+      "id": "41c6d47a-6ec8-42f2-abcb-85652fa6e491",
+      "numero": "DUV2025-005",
+      "data_viagem": "2025-07-28",
+      "navio": {
+        "id": "navio5",
+        "nome": "Navio Cruzeiro 5",
+        "bandeira": "Panamá",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "e9fbd2c4-d1cf-4394-8bb1-bd6465525295",
+        "398f242b-1da0-4f8c-b20d-c028d6e5d9e6",
+        "74c7216a-889c-4aee-98cf-1810641ddba0",
+        "e4d91a8c-0106-4b76-9a13-03b5703e8df4",
+        "48fccbf5-bbba-4894-affd-0066967b9a12"
+      ]
+    },
+    {
+      "id": "79735c01-82a1-4fbf-bb0c-abe5b85907cb",
+      "numero": "DUV2025-006",
+      "data_viagem": "2025-11-26",
+      "navio": {
+        "id": "navio3",
+        "nome": "Navio Cruzeiro 3",
+        "bandeira": "Brasil",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "dd0f0fc6-7f51-4de8-906c-0cf40611274d",
+        "77412f76-cc6f-46ac-9798-8ae24e3a9551",
+        "cb822b5e-c75d-401a-9b59-ffe66ff9dece",
+        "2ea6c0a6-368b-42c9-a920-8fff50fff9bd",
+        "84327820-cce1-4b74-91d8-4447e4e834c3"
+      ]
+    },
+    {
+      "id": "ab04fd18-5122-48cf-9090-1d7ce0e633b1",
+      "numero": "DUV2025-007",
+      "data_viagem": "2025-09-07",
+      "navio": {
+        "id": "navio5",
+        "nome": "Navio Cruzeiro 5",
+        "bandeira": "Panamá",
+        "imagem": "https://i.insider.com/63fe5742d5d80a0018278d37?width=1200"
+      },
+      "lista_pessoas": [
+        "8810effe-bb25-4c0c-9a7a-16619793dec8",
+        "297cd436-7f71-4357-9dbf-9e0cbe5aecb1",
+        "6084fc22-ef64-4e51-a691-fa02728864bb",
+        "6218eb07-dead-422e-9d01-deb1fe9c2ad2",
+        "5b33c109-2528-49a3-9a95-4bff978a1aa5"
+      ]
+    },
+    {
+      "id": "2584b1ba-8050-416c-9c23-1beaf959df46",
+      "numero": "DUV2025-008",
+      "data_viagem": "2025-07-21",
+      "navio": {
+        "id": "navio2",
+        "nome": "Navio Cruzeiro 2",
+        "bandeira": "Brasil",
+        "imagem": "https://images.marinelink.com/images/maritime/wonder-photo-129300.jpeg"
+      },
+      "lista_pessoas": [
+        "abbe8350-7ed0-4813-9d3a-c9d7a765acde",
+        "5973dc9b-8768-478e-82a2-7262d3642e9f",
+        "fdb0e255-b6a9-4d14-9c40-384106d7678b",
+        "114c9bbd-2155-495a-9208-f191e6ed6ffd",
+        "076e2b49-ddd4-43f3-adc4-53cfa6740eef"
+      ]
+    },
+    {
+      "id": "4e01438d-e169-47fc-b4b3-962049415738",
+      "numero": "DUV2025-009",
+      "data_viagem": "2025-11-15",
+      "navio": {
+        "id": "navio4",
+        "nome": "Navio Cruzeiro 4",
+        "bandeira": "Panamá",
+        "imagem": "https://www.royalcaribbean.com/blog/wp-content/uploads/2017/10/Turnaround-Day-Header-e1622748471691.jpg"
+      },
+      "lista_pessoas": [
+        "52b5c21b-9ce4-4716-acc0-1c9e31ffc9cb",
+        "3d0b52f5-5761-4d9d-be58-661a4c515c17",
+        "ed9d3ff2-52e2-4dbc-b078-6cafe29d1a94",
+        "bdf95e31-7f40-4615-aed6-84c130f06acf",
+        "7d9cbb4f-9846-4bd9-be29-7bb09ab5bfb1"
+      ]
+    },
+    {
+      "id": "97e547b6-d3a1-4c35-85fa-179290ec37e6",
+      "numero": "DUV2025-010",
+      "data_viagem": "2025-07-16",
+      "navio": {
+        "id": "navio1",
+        "nome": "Navio Cruzeiro 1",
+        "bandeira": "Noruega",
+        "imagem": "https://www.royalcaribbean.com/blog/wp-content/uploads/2017/10/Turnaround-Day-Header-e1622748471691.jpg"
+      },
+      "lista_pessoas": [
+        "7f28096d-3c0d-4ec5-b342-daf4c711dc74",
+        "34f1a663-e3ea-4693-ba82-faaf529bbc82",
+        "30a7d37f-47f6-4384-826d-6992a487f9c5",
+        "bbe6f688-5685-444b-b83d-874a6ae4db71",
+        "64720609-1447-45ee-b404-90191e586a4d"
+      ]
+    }
+  ],
+  "pessoas": [
+    {
+      "id": "e225c2bb-805d-4f11-ac55-14cd6642fbe6",
+      "nome": "Tripulante 0",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID20158",
+      "foto": "https://randomuser.me/api/portraits/men/0.jpg"
+    },
+    {
+      "id": "19d96ea5-1ddf-411c-a5ac-13099b2e9907",
+      "nome": "Passageiro 1",
+      "tipo": "passageiro",
+      "nacionalidade": "Brasil",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "id": "c2c6f7a6-e955-4e68-9ef8-60a42a6cdec2",
+      "nome": "Tripulante 2",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID96220",
+      "foto": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": "2954cb67-9798-4156-a243-9c4f636bd67a",
+      "nome": "Passageiro 3",
+      "tipo": "passageiro",
+      "nacionalidade": "EUA",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "id": "ba1f2a7a-4a7b-44ee-9dd6-744e146b90df",
+      "nome": "Tripulante 4",
+      "tipo": "tripulante",
+      "nacionalidade": "França",
+      "sid": "SID51601",
+      "foto": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": "b33fd6e2-73cf-4cf8-96bf-8ddcb1ba9b23",
+      "nome": "Tripulante 5",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID70623",
+      "foto": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": "f94c739c-8f21-4316-a3ce-519352b5e894",
+      "nome": "Passageiro 6",
+      "tipo": "passageiro",
+      "nacionalidade": "França",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": "ce455652-ae62-46a7-b97d-b4a5fe4db399",
+      "nome": "Tripulante 7",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID44440",
+      "foto": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": "9956f81f-7fdc-4bd9-99e3-391258ec1228",
+      "nome": "Passageiro 8",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": "9647d801-4618-4c7a-a41f-2e2b3e1c9c04",
+      "nome": "Tripulante 9",
+      "tipo": "tripulante",
+      "nacionalidade": "Itália",
+      "sid": "SID35009",
+      "foto": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "id": "47fecc0a-5143-40c4-8a25-12358116bc3d",
+      "nome": "Tripulante 10",
+      "tipo": "tripulante",
+      "nacionalidade": "França",
+      "sid": "SID71361",
+      "foto": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "id": "68102668-22aa-4ce4-b16c-14dd7865c654",
+      "nome": "Passageiro 11",
+      "tipo": "passageiro",
+      "nacionalidade": "Brasil",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    {
+      "id": "cb5f24cb-6885-4249-b9be-14a228548475",
+      "nome": "Tripulante 12",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID71655",
+      "foto": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": "cac5e18c-8270-43d6-aefb-759ab70aadae",
+      "nome": "Passageiro 13",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+      "id": "f9cea9a8-7244-4fd5-8540-0222ec2be6e0",
+      "nome": "Tripulante 14",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID85273",
+      "foto": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": "b7cec6ce-2388-4c31-98f7-68cfb0e73187",
+      "nome": "Tripulante 15",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID76247",
+      "foto": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": "a20335ec-e326-4ff9-8174-1135e14ff181",
+      "nome": "Passageiro 16",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+      "id": "5918f690-a1d1-41f8-aa9c-fd4120d43060",
+      "nome": "Tripulante 17",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID21065",
+      "foto": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "id": "c03eb934-c948-46e1-9339-7fc5d2c92156",
+      "nome": "Passageiro 18",
+      "tipo": "passageiro",
+      "nacionalidade": "França",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": "c99bce11-993f-4bb5-a2aa-734441664c55",
+      "nome": "Tripulante 19",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID76949",
+      "foto": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": "e9fbd2c4-d1cf-4394-8bb1-bd6465525295",
+      "nome": "Tripulante 20",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID81037",
+      "foto": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "398f242b-1da0-4f8c-b20d-c028d6e5d9e6",
+      "nome": "Passageiro 21",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+      "id": "74c7216a-889c-4aee-98cf-1810641ddba0",
+      "nome": "Tripulante 22",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID60482",
+      "foto": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": "e4d91a8c-0106-4b76-9a13-03b5703e8df4",
+      "nome": "Passageiro 23",
+      "tipo": "passageiro",
+      "nacionalidade": "França",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+      "id": "48fccbf5-bbba-4894-affd-0066967b9a12",
+      "nome": "Tripulante 24",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID10320",
+      "foto": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+      "id": "dd0f0fc6-7f51-4de8-906c-0cf40611274d",
+      "nome": "Tripulante 25",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID25783",
+      "foto": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    {
+      "id": "77412f76-cc6f-46ac-9798-8ae24e3a9551",
+      "nome": "Passageiro 26",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "id": "cb822b5e-c75d-401a-9b59-ffe66ff9dece",
+      "nome": "Tripulante 27",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID91362",
+      "foto": "https://randomuser.me/api/portraits/women/27.jpg"
+    },
+    {
+      "id": "2ea6c0a6-368b-42c9-a920-8fff50fff9bd",
+      "nome": "Passageiro 28",
+      "tipo": "passageiro",
+      "nacionalidade": "EUA",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+      "id": "84327820-cce1-4b74-91d8-4447e4e834c3",
+      "nome": "Tripulante 29",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID41946",
+      "foto": "https://randomuser.me/api/portraits/women/29.jpg"
+    },
+    {
+      "id": "8810effe-bb25-4c0c-9a7a-16619793dec8",
+      "nome": "Tripulante 30",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID93530",
+      "foto": "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    {
+      "id": "297cd436-7f71-4357-9dbf-9e0cbe5aecb1",
+      "nome": "Passageiro 31",
+      "tipo": "passageiro",
+      "nacionalidade": "Brasil",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/31.jpg"
+    },
+    {
+      "id": "6084fc22-ef64-4e51-a691-fa02728864bb",
+      "nome": "Tripulante 32",
+      "tipo": "tripulante",
+      "nacionalidade": "EUA",
+      "sid": "SID35759",
+      "foto": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": "6218eb07-dead-422e-9d01-deb1fe9c2ad2",
+      "nome": "Passageiro 33",
+      "tipo": "passageiro",
+      "nacionalidade": "EUA",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+      "id": "5b33c109-2528-49a3-9a95-4bff978a1aa5",
+      "nome": "Tripulante 34",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID31604",
+      "foto": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    {
+      "id": "abbe8350-7ed0-4813-9d3a-c9d7a765acde",
+      "nome": "Tripulante 35",
+      "tipo": "tripulante",
+      "nacionalidade": "França",
+      "sid": "SID93693",
+      "foto": "https://randomuser.me/api/portraits/women/35.jpg"
+    },
+    {
+      "id": "5973dc9b-8768-478e-82a2-7262d3642e9f",
+      "nome": "Passageiro 36",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/36.jpg"
+    },
+    {
+      "id": "fdb0e255-b6a9-4d14-9c40-384106d7678b",
+      "nome": "Tripulante 37",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID17082",
+      "foto": "https://randomuser.me/api/portraits/women/37.jpg"
+    },
+    {
+      "id": "114c9bbd-2155-495a-9208-f191e6ed6ffd",
+      "nome": "Passageiro 38",
+      "tipo": "passageiro",
+      "nacionalidade": "Itália",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/38.jpg"
+    },
+    {
+      "id": "076e2b49-ddd4-43f3-adc4-53cfa6740eef",
+      "nome": "Tripulante 39",
+      "tipo": "tripulante",
+      "nacionalidade": "França",
+      "sid": "SID72652",
+      "foto": "https://randomuser.me/api/portraits/women/39.jpg"
+    },
+    {
+      "id": "52b5c21b-9ce4-4716-acc0-1c9e31ffc9cb",
+      "nome": "Tripulante 40",
+      "tipo": "tripulante",
+      "nacionalidade": "Itália",
+      "sid": "SID32510",
+      "foto": "https://randomuser.me/api/portraits/men/40.jpg"
+    },
+    {
+      "id": "3d0b52f5-5761-4d9d-be58-661a4c515c17",
+      "nome": "Passageiro 41",
+      "tipo": "passageiro",
+      "nacionalidade": "Alemanha",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+    },
+    {
+      "id": "ed9d3ff2-52e2-4dbc-b078-6cafe29d1a94",
+      "nome": "Tripulante 42",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID32289",
+      "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+      "id": "bdf95e31-7f40-4615-aed6-84c130f06acf",
+      "nome": "Passageiro 43",
+      "tipo": "passageiro",
+      "nacionalidade": "Itália",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+    },
+    {
+      "id": "7d9cbb4f-9846-4bd9-be29-7bb09ab5bfb1",
+      "nome": "Tripulante 44",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID62561",
+      "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+      "id": "7f28096d-3c0d-4ec5-b342-daf4c711dc74",
+      "nome": "Tripulante 45",
+      "tipo": "tripulante",
+      "nacionalidade": "Brasil",
+      "sid": "SID46211",
+      "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "id": "34f1a663-e3ea-4693-ba82-faaf529bbc82",
+      "nome": "Passageiro 46",
+      "tipo": "passageiro",
+      "nacionalidade": "França",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+    },
+    {
+      "id": "30a7d37f-47f6-4384-826d-6992a487f9c5",
+      "nome": "Tripulante 47",
+      "tipo": "tripulante",
+      "nacionalidade": "França",
+      "sid": "SID31349",
+      "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    {
+      "id": "bbe6f688-5685-444b-b83d-874a6ae4db71",
+      "nome": "Passageiro 48",
+      "tipo": "passageiro",
+      "nacionalidade": "Brasil",
+      "sid": null,
+      "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "id": "64720609-1447-45ee-b404-90191e586a4d",
+      "nome": "Tripulante 49",
+      "tipo": "tripulante",
+      "nacionalidade": "Alemanha",
+      "sid": "SID16658",
+      "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+    }
+  ]
+}

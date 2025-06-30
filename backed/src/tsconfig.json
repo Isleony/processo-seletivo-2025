@@ -1,0 +1,16 @@
+// /Users/isadoradeleaomoreira/Desktop/duv-app/backed/src/tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "rootDir": "./", // Look for source files in the current directory (src)
+    "outDir": "../dist", // Output to 'dist' one level up (in 'backed' directory)
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": ["./**/*.ts"],  // Include all .ts files in the current directory (src)
+  "exclude": ["node_modules"]
+}
